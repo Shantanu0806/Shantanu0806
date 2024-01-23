@@ -4,7 +4,7 @@
   My passion lies in extracting meaningful insights from data to drive informed business decisions.
   Proficient in utilizing tools such as Advanced Excel, Power BI, Tableau, and Microsoft SQL Server, I thrive on transforming raw data into actionable intelligence
   
-- 👀 I’m interested in -
+- 👀 I’m interested in 
 - Data Analysis: Leveraging statistical methods and visualization tools to uncover trends and patterns.
 - Data Visualization: Creating compelling visualizations in Power BI and Tableau for effective communication.
 - Database Management: Proficient in managing and querying data using Microsoft SQL Server.
