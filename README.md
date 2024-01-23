@@ -1,4 +1,7 @@
 - 👋 Hi, I’m @Shantanu0806 - Data Analyst
+
+    I tell Stories From Data
+  
   
 - About me - I'm a dedicated Data Analyst with over 1.5 years of professional experience.
   My passion lies in extracting meaningful insights from data to drive informed business decisions.
